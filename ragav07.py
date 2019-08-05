@@ -1,4 +1,3 @@
-
 #R
 n=int(input())
 
@@ -11,4 +10,4 @@ if(n!=0):
         print("Hello")
 
         i=i+1
-© 2019 GitHub, Inc.
+
