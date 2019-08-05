@@ -1,5 +1,5 @@
-import sys
+#d
 vow1='aeiouAEIOU'
-c = input('enter a char : ')
+c= input('enter a char : ')
 if c in vow1:print('Vowel')
-else  :  print('consonant')
+else:print('consonant')
