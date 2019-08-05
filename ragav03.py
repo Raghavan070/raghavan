@@ -1,5 +1,7 @@
-#d
-vow1='aeiouAEIOU'
-c= input('enter a char : ')
-if c in vow1:print('Vowel')
-else:print('consonant')
+#R    
+n=str(input())
+m=['a','e','i','o','u','A','E','I','O','U']
+if n in m:
+    print("Vowel")
+else:
+    print("Consonant")
