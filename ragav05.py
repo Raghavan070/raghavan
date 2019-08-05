@@ -1,14 +1,13 @@
-#R
-d=int(input())
-e=int(input())
-f=int(input())
+a,b,c=input().split()
+#b=int(input().split())
+#c=int(input().split())
 
-if(a>e) :
-    if(d>c):
-        print(d)
+if(a>b) :
+    if(a>c):
+        print(a)
     else:
-        print(f)
-elif(e>f):
-    print(e)
+        print(c)
+elif(b>c):
+    print(b)
 else:
-    print(f)
+    print(c)
