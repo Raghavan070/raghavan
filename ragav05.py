@@ -1,14 +1,14 @@
 #R
-a=int(input())
-b=int(input())
-c=int(input())
+d=int(input())
+e=int(input())
+f=int(input())
 
-if(a>b) :
-    if(a>c):
-        print(a)
+if(a>e) :
+    if(d>c):
+        print(d)
     else:
-        print(c)
-elif(b>c):
-    print(b)
+        print(f)
+elif(e>f):
+    print(e)
 else:
-    print(c)
+    print(f)
