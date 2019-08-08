@@ -7,4 +7,4 @@ for mo in range(m+1,n):
                 break
         else:
             print(mo,end=" ")
-© 2019 GitHub, Inc.
+
