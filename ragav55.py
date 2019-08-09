@@ -5,4 +5,4 @@ if((h%2)==0):
   print("even")
 else:
   print("odd")
-© 2019 GitHub, Inc.
+
