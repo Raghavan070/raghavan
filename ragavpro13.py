@@ -1,4 +1,4 @@
-#S
+#r
 m,n=map(int,input().split())
 k=[]
 s=[]
