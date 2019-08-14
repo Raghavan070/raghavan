@@ -1,4 +1,4 @@
-#R
+#S
 def LIS(arr,size):
     res=[]
     count=1
